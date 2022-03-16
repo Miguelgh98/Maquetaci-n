@@ -1,0 +1,21 @@
+.cabecera{
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+}
+
+.texto{
+	background-color: white;
+	text-align: center;
+}
+
+.fondo{
+	background-image: url("C:/xampp/htdocs/proyecto/spacer/1.jpg");
+	text-align: center;
+	color: white;
+}
+
+.texto2{
+	background-color: lightgray;
+	text-align: center;
+}
